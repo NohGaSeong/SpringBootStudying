@@ -3,7 +3,7 @@
 <a href = "https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard:">이 강의</a>
 를 따라 진행될 예정
 
-## 완료도
+## 기초 단계 _ 완료도
 ### 프로젝트 환경 설정
 - :white_check_mark: 프로젝트 생성
 - :white_check_mark: 라이브러리 살펴보기
@@ -39,4 +39,5 @@
 - :white_check_mark: AOP가 필요한 상황
 - :white_check_mark: AOP 적용
 
-      
+## 기본 단계 _ 완료도
+
